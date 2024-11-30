@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://isaac-7it.github.io/Mobile-First-Social-Link-Profile/)
+- Solution URL: [https://your-solution-url.com]
+- Live Site URL: [https://isaac-7it.github.io/Mobile-First-Social-Link-Profile/]
 
 ### Built with
 
